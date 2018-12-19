@@ -1,2 +1,9 @@
 add 
 git remote add origin git@github.com:edwnorton/acclog.git
+
+git init
+git add *
+git commit -m "initail"
+
+git pull git@github.com:edwnorton/acclog.git
+git push -u origin master
